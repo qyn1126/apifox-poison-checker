@@ -50,7 +50,7 @@ git clone https://github.com/yourname/apifox-poison-checker.git
 cd apifox-poison-checker
 
 # 直接运行
-python checker.py
+python check_apifox.py
 ```
 
 或单文件运行（无需克隆）：
